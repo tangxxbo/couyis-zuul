@@ -1,0 +1,22 @@
+{"properties": [
+  {
+    "name": "zuul.ribbon.eager-load.clients",
+    "type": "java.lang.String",
+    "description": "A description for 'zuul.ribbon.eager-load.clients'"
+  },
+  {
+    "name": "ribbon.ConnectTimeout",
+    "type": "java.lang.String",
+    "description": "A description for 'ribbon.ConnectTimeout'"
+  },
+  {
+    "name": "ribbon.MaxAutoRetriesNextServer",
+    "type": "java.lang.String",
+    "description": "A description for 'ribbon.MaxAutoRetriesNextServer'"
+  },
+  {
+    "name": "ribbon.OkToRetryOnAllOperations",
+    "type": "java.lang.String",
+    "description": "A description for 'ribbon.OkToRetryOnAllOperations'"
+  }
+]}
